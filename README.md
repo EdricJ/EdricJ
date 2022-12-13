@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdricJ
-- 👀 I’m interested in C++, C#, Python, javascript, HTML, CSS
+- 👀 I’m interested in C++, C#, Python, Javascript, HTML, CSS
 - 🌱 I’m currently learning Information of Technology
 - 💞️ I’m looking to collaborate on work
 - 📫 How to reach me. It's here!!! - pthong901102@gmail.com - 20120201@student.hcmus.edu.vn
