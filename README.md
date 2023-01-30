@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C# | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🌐 &nbsp; HTML | CSS | JavaScript | Colab
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Android Studio | Visual Studio code | Microsoft Visual Studio code | Git | Anaconda | Jupyter Notebook | VMware Workstation | 3UTools 
 - 🖥 &nbsp; Filmora | Illustrator | Photoshop | Premiere | Clipchamp   
