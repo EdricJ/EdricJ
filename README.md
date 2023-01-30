@@ -30,8 +30,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.youtube.com/channel/UCQFeVWKtOVrmurI3dDHYzmA?view_as=subscriber" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>
-&nbsp; <a href="https://twitter.com/toGst9?fbclid=IwAR3F_vHrwK82YSghms_mNeUmLcSrt0ghN15ZwoVpSR2Tg6cbS-3xOG8GvTQ" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.youtube.com/channel/UCQFeVWKtOVrmurI3dDHYzmA?view_as=subscriber" target="_self" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube-new.png" width="50" /></a>
+&nbsp; <a href="https://open.spotify.com/user/inknys3l65llnz517palibn3v" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/spotify-new.png" width="50" /></a>
+&nbsp; <a href="https://www.quora.com/profile/Edric-27" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/quora-new.png" width="50" /></a>
 &nbsp; <a href="https://www.instagram.com/sg9.pgt/?fbclid=IwAR1QVXKCoe0Eif97_IMRwBv-l43xduV2fbHvcq6j5xshOXs4Pb8xgvPVoFo" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/edricJ9/?fbclid=IwAR281bHnDTY9n8mkRTdoa4UKS8F6QqiuL7OT8ISqqKXC5Gt5plEikE8g754" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:pthong901102@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
