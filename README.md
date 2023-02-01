@@ -17,7 +17,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Colab
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Android Studio | Visual Studio code | Microsoft Visual Studio code | Git | Anaconda | Jupyter Notebook | VMware Workstation | 3UTools 
-- 🖥 &nbsp; Filmora | Illustrator | Photoshop | Premiere | Clipchamp   
+- 🖥 &nbsp; Filmora | Illustrator | Photoshop | Premiere | Clipchamp | Figma
 
 <!---<br>
 
