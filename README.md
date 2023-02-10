@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions, promote into a small business.
 - 🎓 &nbsp; Studying Information of Technology & Computer Vision.
 - 🌱 &nbsp; Enthusiast in Researching, apply science to life and Artificial Intelligence.
-- ✍️ &nbsp; WatchinHorroror Movies and trying out latest design trends as hobbies/side hustles, doing workout and youtube hihi.
+- ✍️ &nbsp; Watching Horror Movies and trying out latest design trends as hobbies/side hustles, doing workout and youtube hihi.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 - Another contact me: 20120201@student.hcmus.edu.vn
 
